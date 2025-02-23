@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465624010542",
+    "project_id": "roomloo",
+    "storage_bucket": "roomloo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465624010542:android:3581006df17a53811f74bf",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKXhgOb7YXlkAPdGv0P8rZFfAdRmCD6dQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
